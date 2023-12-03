@@ -1,4 +1,4 @@
 # doubleLayerButtom
-expo start
-npm i
+expo start<br/>
+npm i<br/>
 expo start
